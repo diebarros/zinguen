@@ -17,7 +17,7 @@ Módulo prático de HTML e CSS do curso Full stack, promovido pela Rocketseat pa
 <br>
 
 <p align="center">
-  <img alt="Zinguen" src="assets/Thumbnail.png" width="100%">
+  <img alt="Zinguen" src="https://github.com/diebarros/zinguen/blob/master/assets/images/Thumbnail.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
